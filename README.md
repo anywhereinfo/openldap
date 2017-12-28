@@ -16,4 +16,4 @@ Load various ldiff files via command ```ldapadd -D "cn=admin,dc=wso2,dc=com" -W 
 
 To graphically view schema, download jxworkbench from http://jxplorer.org/
 
-To query from commandline ```ldapsearch -D 'cn=admin,dc=ideasforsharing,dc=com' -W -x```
+To query from commandline ```ldapsearch -D 'cn=admin,dc=ideasforsharing,dc=com' -W -x -b 'uid=jim,ou=people,dc=ideasforsharing,dc=com'```
