@@ -1,0 +1,15 @@
+dn: uid=jim,ou=people,dc=ideasforsharing,dc=com
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: jim
+sn: batth
+givenName: jim
+cn: jim batth
+displayName: Jim Batth
+uidNumber: 10000
+gidNumber: 5000
+userPassword: elijah12
+gecos: Jim Batth
+loginShell: /bin/bash
+homeDirectory: /home/jim

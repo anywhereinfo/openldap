@@ -1,0 +1,6 @@
+dn:dc=ideasforsharing,dc=com
+objectClass:dcObject
+objectClass:organizationalUnit
+dc:ideasforsharing
+ou:ideasforsharing
+

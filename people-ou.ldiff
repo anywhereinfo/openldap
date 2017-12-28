@@ -1,0 +1,3 @@
+dn: ou=people,dc=ideasforsharing,dc=com
+objectClass: organizationalUnit
+ou: people

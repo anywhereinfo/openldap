@@ -1,0 +1,8 @@
+dn: ou=groups,dc=ideasforsharing,dc=com
+objectClass: organizationalUnit
+ou: groups
+
+dn: cn=engineers,ou=groups,dc=ideasforsharing,dc=com
+objectClass: posixGroup
+cn: engineers
+gidNumber: 5000
